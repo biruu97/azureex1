@@ -15,7 +15,7 @@ namespace MyWebApplicationBM.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "hello from Biruu to Azure DevOps";
+            ViewBag.Message = "hello from Biruu to Azure DevOps 2";
 
             return View();
         }
